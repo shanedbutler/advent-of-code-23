@@ -1,4 +1,5 @@
-﻿//
+﻿//For the given input, sum each line's first and last numbers concatenated together.
+//https://adventofcode.com/2023/day/1#part1
 try
 {
     using (var sr = new StreamReader("input.txt"))
